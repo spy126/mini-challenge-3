@@ -14,7 +14,7 @@ npm install
 
 ## Yêu cầu
 
-Hoàn than API `/send` thỏa mãn các yêu cầu sau:
+Hoàn thành API `/send` thỏa mãn các yêu cầu sau:
 
 - Request được gửi tới với dạng sau: `/api?msg=Hello world`
 - Nội dung trong query `msg` sẽ được gửi đi tới tất cả người dùng đang online và hiện được trên UI của ứng dụng.
